@@ -39,5 +39,4 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PramodKumarYadav&theme=blue-green&layout=compact)
 
 ## Joke of the day
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
