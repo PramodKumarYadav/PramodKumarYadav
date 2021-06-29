@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Pramod and I am a test automation enthusiast! I love solving problems and building test automation frameworks. I am currently working as a contractor at EPO. Apart from solving test automation problems at EPO:
+I am a test automation enthusiast! I love solving problems, learning new technologies and building test automation frameworks. I am currently working as a contractor at EPO. Apart from solving test automation problems at EPO:
 <!--
 **PramodKumarYadav/PramodKumarYadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
