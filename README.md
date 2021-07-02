@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-I am a test automation enthusiast! I love solving problems, learning new technologies and building test automation frameworks. I am currently working as a contractor at EPO. Apart from solving test automation problems at EPO:
+I am a test automation enthusiast, and I love solving problems and building test automation frameworks. 
+I am currently working as a contractor at EPO and having some fun working on latest tech and learning new stuff every day. 
+Apart from solving test automation problems at EPO:
+
 <!--
 **PramodKumarYadav/PramodKumarYadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +25,7 @@ Made with [contributors-img](https://contrib.rocks).
 [![Your Repository's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PramodKumarYadav)](https://github.com/PramodKumarYadav/github-readme-stats)
 -->
 
-- 🔭 I’m currently working on **project drona** - a project to help a friend learn all things around automation in the right way.
+- 🔭 I’m currently working on **project drona** - a project to help a friend learn all things around automation in a right way.
 - 🤼 Also working on **project bytes** - to share the knowledge with a larger online community.
 - 💬 Ask me about test automation, design, docker, ci, end to end automation
 - ⚡ Some fun fact about my github projects below...
