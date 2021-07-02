@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am a test automation enthusiast, and I love solving problems and building test automation frameworks. 
-I am currently working as a contractor at EPO and having some fun working on latest tech and learning new stuff every day. 
+I am currently working as a test automation expert at EPO and having some fun working on latest tech and building production grade test framework for them. 
 Apart from solving test automation problems at EPO:
 
 <!--
