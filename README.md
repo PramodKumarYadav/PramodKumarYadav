@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-I am a test automation enthusiast, and I love solving problems and building test automation frameworks. 
-I am currently working as a test automation expert at EPO and having some fun working on latest tech and building production grade test framework for them. 
-Apart from solving test automation problems at EPO:
+I am a test automation enthusiast who loves solving problems and building test automation frameworks. 
 
 <!--
 **PramodKumarYadav/PramodKumarYadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on drona
-- 🌱 I’m currently learning better design practices.
-- 👯 I’m looking to collaborate on drona
+- 🔭 I’m currently working on project zero (core automation framework) and project restpro (rest api automation framework)
+- 🌱 I’m currently learning better design practices in Java by reading "Head first design patterns".
+- 👯 I’m looking to collaborate on any of these above projects.
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
