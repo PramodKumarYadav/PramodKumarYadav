@@ -8,10 +8,6 @@ I am a test automation enthusiast who loves solving problems and building test a
 Here are some ideas to get you started:
 - 🔭 I’m currently working on project zero (core automation framework) and project restpro (rest api automation framework)
 - 🌱 I’m currently learning better design practices in Java by reading "Head first design patterns".
-- 👯 I’m looking to collaborate on any of these above projects.
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 
 ###Contributor's badge
 <a href = "https://github.com/PramodKumarYadav/Drona/graphs/contributors">
