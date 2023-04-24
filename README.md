@@ -6,7 +6,7 @@ I am a test automation enthusiast who loves solving problems and building test a
 **PramodKumarYadav/PramodKumarYadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on project zero (core automation framework) and project restpro (rest api automation framework)
+- 🔭 I’m currently working on project zero (core automation framework) and project restpro (rest api automation framework).
 - 🌱 I’m currently learning better design practices in Java by reading "Head first design patterns".
 
 ###Contributor's badge
