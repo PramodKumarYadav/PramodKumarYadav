@@ -5,22 +5,10 @@ I am a test automation enthusiast who loves solving problems and building test a
 <!--
 **PramodKumarYadav/PramodKumarYadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on project zero (core automation framework) and project restpro (rest api automation framework).
-- 🌱 I’m currently learning better design practices in Java by reading "Head first design patterns".
-
-###Contributor's badge
-<a href = "https://github.com/PramodKumarYadav/Drona/graphs/contributors">
-<img src = "https://contrib.rocks/image?repo = PramodKumarYadav/Drona"/>
-</a>
-
-Made with [contributors-img](https://contrib.rocks).
-
 [![Your Repository's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PramodKumarYadav)](https://github.com/PramodKumarYadav/github-readme-stats)
 -->
 
-- 🔭 I’m currently working on **project drona** - a project to help a friend learn all things around automation in a right way.
-- 🤼 Also working on **project bytes** - to share the knowledge with a larger online community.
+- 🚀 You should definitly checkout my project [runwright](https://github.com/PramodKumarYadav/runwright), if you work with playwright and github. 
 - 💬 Ask me about test automation, design, docker, ci, end to end automation
 - ⚡ Some fun fact about my github projects below...
 
