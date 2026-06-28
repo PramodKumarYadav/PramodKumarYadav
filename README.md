@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-I am a test automation enthusiast who loves solving problems and building test automation frameworks. 
+I am a test automation enthusiast who likes to look old engineering problems with new eyes and build solutions. 
+
+I also like to share what I have learned with community so that new and emerging engineers can learn and take insights from it. 
+
+Apart from this github handle, I also share my work on my company github handle here: https://github.com/power-tester 
 
 <!--
 **PramodKumarYadav/PramodKumarYadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,6 +13,9 @@ I am a test automation enthusiast who loves solving problems and building test a
 -->
 
 - 🚀 You should definitly checkout my project [runwright](https://github.com/PramodKumarYadav/runwright), if you work with playwright and github. 
+- 🚀 Checkout [taskflow](https://github.com/power-tester/taskflow) for seeing how trunk based development using feature toggles look like.
+- 🚀 [skills package manager](https://github.com/power-tester/skills-pm) is a project to manage agentic skills as a package file that can be distributed and managed at organisation level.
+- [get github pr comment](https://github.com/power-tester/get-github-pr-comments) is a MCP server to read and act on PR comments locally from your VSCODE or terminal. 
 - 💬 Ask me about test automation, design, docker, ci, end to end automation
 - ⚡ Some fun fact about my github projects below...
 
