@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a test automation enthusiast who likes to **learn, build and share**.
+I am a test automation enthusiast who likes to __learn, build and share__.
 
 I particularly like revisting existing engineering problems with new eyes and build novel solutions. For reference, I built project [runwright](https://github.com/PramodKumarYadav/runwright) to solve the problem of test runs taking too long and rather making them deterministic and fast. I built another project to do angentic sementaic versioning to make semver more reliable.
 
