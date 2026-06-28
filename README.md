@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I am a test automation enthusiast who likes to look old engineering problems with new eyes and build solutions. 
+I am a test automation enthusiast who likes to **learn, build and share**.
 
-I also like to share what I have learned with community so that new and emerging engineers can learn and take insights from it. 
+I particularly like revisting existing engineering problems with new eyes and build novel solutions. For reference, I built project [runwright](https://github.com/PramodKumarYadav/runwright) to solve the problem of test runs taking too long and rather making them deterministic and fast. I built another project to do angentic sementaic versioning to make semver more reliable.
 
-Apart from this github handle, I also share my work on my company github handle here: https://github.com/power-tester 
+Apart from this github handle, I share my work on my company github handle here: https://github.com/power-tester 
 
 <!--
 **PramodKumarYadav/PramodKumarYadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
